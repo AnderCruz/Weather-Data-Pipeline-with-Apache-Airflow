@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://cursos.alura.com.br/
+HostUrl=https://cdn3.gnarususercontent.com.br/2665-arquitetura-airflow/02/extrai_infos_clima.py
